@@ -3,7 +3,8 @@
 
 Here are some ideas to get you started:
 
-转行阵痛选手
+天坑选手  
+转行小记录
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C++, Simulation
