@@ -2,7 +2,7 @@
 
 
 Here are some ideas to get you started:
-转行阵痛选手
+- 转行阵痛选手
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C++, Simulation
