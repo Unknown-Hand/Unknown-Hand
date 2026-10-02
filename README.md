@@ -3,8 +3,6 @@
 
 Here are some ideas to get you started:
 
-天坑选手<br>
-“干点别的”小记录
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C/C++, Verilog HDL Simulation
